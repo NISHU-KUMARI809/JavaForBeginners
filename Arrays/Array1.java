@@ -1,5 +1,5 @@
 // Take an array as input from user. Search for a given number x and print the index at which it occurs
-package demoproject;
+//package demoproject;
 import java.util.Scanner;
 public class Array1 {
     public static void main(String[] args) {

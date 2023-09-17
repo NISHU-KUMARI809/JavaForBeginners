@@ -1,4 +1,4 @@
-package ClassAndObject;
+//package ClassAndObject;
 public class Myclass {
     public static void main(String[] args) {
         Student mark=new Student();

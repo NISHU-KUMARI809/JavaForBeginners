@@ -1,4 +1,4 @@
-package demoproject;
+//package demoproject;
 public class TwoDimensionalArray {
     public static void main(String[] args) {
         int [][] arr={{1,2,3,4},

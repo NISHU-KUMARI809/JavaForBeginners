@@ -1,5 +1,5 @@
 
-package demoproject;
+//package demoproject;
 import java.util.Scanner;
 public class ArrayMatrixMultiplication {
     public static void main(String[] args) {
