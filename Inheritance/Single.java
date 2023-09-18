@@ -1,5 +1,5 @@
 
-package Inheritance;
+//package Inheritance;
 class Animal{
     void eat(){
         System.out.println("Eating");
