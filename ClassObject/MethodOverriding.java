@@ -1,4 +1,4 @@
-package ClassObject;
+//package ClassObject;
 class Vehicle{
     void run(){
         System.out.println("Vehicles is running");
