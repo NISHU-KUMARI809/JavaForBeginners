@@ -8,9 +8,9 @@ public class ExceptionExample1 {
             int x=20;
             int z=x/0;
         }
-        catch(ArithmeticException ex){
+        catch(Exception ex){
             System.out.println(ex);
-            System.out.println("Rest of the code");
+            //System.out.println("Rest of the code");
 
         }
         //int x=20;
