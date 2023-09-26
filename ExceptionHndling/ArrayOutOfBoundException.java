@@ -1,4 +1,4 @@
-package ExceptionHndling;
+//package ExceptionHndling;
 
 public class ArrayOutOfBoundException {
     public static void main(String[] args) {
