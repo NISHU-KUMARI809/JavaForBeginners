@@ -4,14 +4,14 @@ public class Exception2 {
     public static void main(String[] args) throws ArithmeticException {
         System.out.println("Enter the number:");
         Scanner s=new Scanner(System.in);
-        int x=s.nextInt();
-        int y=s.nextInt();
         try{
-            int z=x/y;
+            int x=s.nextInt();
+            int y=s.nextInt();
             if(y==0){
                 throw new ArithmeticException("The number is zero");
             }
             else{
+                int z=x/y;
                 System.out.println("The division is equal to:");
                 System.out.println(z);
             }
