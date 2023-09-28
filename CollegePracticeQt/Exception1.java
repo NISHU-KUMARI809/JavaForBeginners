@@ -7,11 +7,11 @@ public class Exception1 {
          Scanner sc=new Scanner(System.in);
          int x=sc.nextInt();
          int y=sc.nextInt();
-         int z=x/y;
          if(y==0){
             throw new  ArithmeticException("Cannot be divide by 0");
          }
          else{
+            int z=x/y;
             System.out.println("The division is equal to:");
             System.out.println(z);
          }

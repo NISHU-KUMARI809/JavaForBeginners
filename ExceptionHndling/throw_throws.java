@@ -16,7 +16,7 @@ public class throw_throws {
     }
     public static void main(String[] args) {
         try{
-            double ar= area(6);
+            double ar= area(-1);
             System.out.println(ar);
         }
         catch(Exception e){
