@@ -1,6 +1,6 @@
 //arithmetic exception
 
-import java.net.SocketPermission;
+//import java.net.SocketPermission;
 
 public class ExceptionExample1 {
     public static void main(String[] args) {
