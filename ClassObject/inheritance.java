@@ -1,5 +1,5 @@
 
-package ClassObject;
+//package ClassObject;
 class Base{
     int x;
     public int getx(){

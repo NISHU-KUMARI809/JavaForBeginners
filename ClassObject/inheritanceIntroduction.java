@@ -1,5 +1,5 @@
 
-package ClassObject;
+//package ClassObject;
 class Animal{ //parent class 
     void eat(){
         System.out.println("I am Eating");
