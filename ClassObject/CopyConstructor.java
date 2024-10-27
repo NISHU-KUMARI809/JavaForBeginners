@@ -1,5 +1,5 @@
 
-package ClassObject;
+//package ClassObject;
 class Student{
     int id;
     String name;
