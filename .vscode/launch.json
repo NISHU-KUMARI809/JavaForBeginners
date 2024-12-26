@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnyBaseToAnyOtherBase",
+            "request": "launch",
+            "mainClass": "NumberSystem.AnyBaseToAnyOtherBase",
+            "projectName": "Java_Code_e5968791"
+        },
+        {
+            "type": "java",
+            "name": "AnyBaseToDecimal",
+            "request": "launch",
+            "mainClass": "NumberSystem.AnyBaseToDecimal",
+            "projectName": "Java_Code_e5968791"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToAnyBase",
+            "request": "launch",
+            "mainClass": "NumberSystem.DecimalToAnyBase",
+            "projectName": "Java_Code_e5968791"
+        },
+        {
+            "type": "java",
             "name": "DigitFrequency",
             "request": "launch",
             "mainClass": "Function__n.DigitFrequency",
