@@ -11,9 +11,6 @@ public class AnyBaseToAnyOtherBase {
         int des=Anybasetodecimal(a, b);
         int res=decToAnyBase(des,b1);
         System.out.println(res);
-
-
-        
     }
     public static int Anybasetodecimal(int n,int d){
         int count=0;
